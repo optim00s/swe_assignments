@@ -64,3 +64,4 @@ s.info()
 
 s.grades = [50, 55, 48]
 s.info()
+
